@@ -2,34 +2,81 @@
 
 A collection of selected projects developed during my Computer Science degree at **FCUP**.
 
-The repository includes work across areas such as game development, artificial intelligence, networking, databases, compilers and user experience.
+The projects cover areas such as game and UX design, artificial intelligence, networking, databases, and compilers.
 
-## Projects
+## Featured Projects
 
-### Mage Warfare
+### Mage Warfare — Board/Card Game Design
 
-A game-related project focused on gameplay/design concepts and interactive systems.
+A board/card game project focused on game mechanics, balancing, and iterative design.
 
-### Connect Four AI
+* Designed the core mechanics
+* Created around 100 playable cards
+* Iterated on balance through playtesting
 
-Implementation of Connect Four using search/decision-making techniques such as **Monte Carlo** and **A***.
+---
 
-### Client-Server Chat
+### Traffic Lights Control — UX Prototype
 
-A networked chat application exploring client-server communication and distributed application concepts.
+A large-scale interface prototype for monitoring emergencies across a network of traffic signals.
 
-### Database Web Application
+The project focused on interaction design, usability, and evaluation of different user flows.
 
-A web application developed around relational database design and data management.
+[View Figma Prototype](https://www.figma.com/design/D7XzBUA0iVuekQDarKmRAI/Controlo-de-tr%C3%A2nsito?m=auto&t=xtJwgTr7dlaWLCf6-1)
+
+---
+
+### Connect Four AI — Monte Carlo & A*
+
+Implementation and experimentation with **Monte Carlo** and **A*** algorithms applied to Connect Four.
+
+The algorithms were implemented from scratch and explored through a Jupyter Notebook.
+
+[View Notebook](https://nbviewer.org/github/Guzz007Pt/academic-projects/blob/main/portfolio/assets/notebook.ipynb)
+
+---
+
+### Client-Server Group Chat
+
+A simple networked group chat developed to explore **client-server communication** and networking concepts.
+
+* [Client Code](https://github.com/Guzz007Pt/academic-projects/blob/main/portfolio/RedesDeComunicao-main/ChatClient.java)
+* [Server Code](https://github.com/Guzz007Pt/academic-projects/blob/main/portfolio/RedesDeComunicao-main/ChatServer.java)
+
+---
+
+### League of Legends Worlds Database
+
+A database and web application for storing and searching information about players from the **League of Legends World Championship**.
+
+The project combined relational database design with a simple HTML-based interface for querying the stored data.
+
+[View Project](https://github.com/Guzz007Pt/academic-projects/tree/main/portfolio/Database)
+
+---
 
 ### Kotlin Compiler
 
-A compiler-related project exploring language processing and compiler concepts.
+A compiler project implementing several stages of a compilation pipeline.
 
-### Traffic Light UX Project
+The project included:
 
-A user-experience project focused on interaction and interface design.
+* Lexical and syntactic analysis using **Alex** and **Happy**
+* Abstract Syntax Tree (AST)
+* Symbol table
+* Semantic processing
+* MIPS code generation
 
-## Purpose
+[View Project](https://github.com/Guzz007Pt/academic-projects/tree/main/portfolio/Compiler%20%20kotlin)
 
-These projects reflect different areas explored throughout my Computer Science degree. My current focus is primarily on **C++, game programming and software systems**.
+---
+
+## Current Focus
+
+My current interests are primarily in:
+
+* C++
+* Game Programming
+* Gameplay Systems
+* Game Architecture
+* Software Engineering
