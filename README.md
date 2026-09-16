@@ -1,49 +1,35 @@
-# Gustavo Martins — Portfolio
+# Academic Projects
 
-A simple portfolio of my CS projects:
-- **Game/UX Design**
-- **Serverchat/Clientchat**
-- **Compiler for Kotlin**
-- **MonteCarlo/A\* in connect4**
-- **HTML search for database**
+A collection of selected projects developed during my Computer Science degree at **FCUP**.
 
----
+The repository includes work across areas such as game development, artificial intelligence, networking, databases, compilers and user experience.
 
-## Featured Projects
+## Projects
 
-### **Mage Warfare — Board/Card Game (Design & Balance)**
-Designed mechanics, 100 playable cards, and iterated through playtests.
+### Mage Warfare
 
----
+A game-related project focused on gameplay/design concepts and interactive systems.
 
-### **Traffic Lights Control — Large-scale UX Prototype (Figma)**
-Interface for monitoring emergencies across a network of signals; interactive flows and external evaluations.  
-[Figma Prototype](https://www.figma.com/design/D7XzBUA0iVuekQDarKmRAI/Controlo-de-tr%C3%A2nsito?m=auto&t=xtJwgTr7dlaWLCf6-1)
+### Connect Four AI
 
----
+Implementation of Connect Four using search/decision-making techniques such as **Monte Carlo** and **A***.
 
-### **Games with AI — Jupyter Notebook**
-Application of Monte Carlo and A\* algorithms in connect4 from scratch.  
-[Demo (nbviewer)](https://nbviewer.org/github/Guzz007Pt/Portfolio/blob/main/portfolio/assets/notebook.ipynb)
+### Client-Server Chat
 
----
+A networked chat application exploring client-server communication and distributed application concepts.
 
-### **Simple Groupchat with Client and Server Side**
-Simple groupchat made to learn about networks.  
+### Database Web Application
 
-- [Client Code](https://github.com/Guzz007Pt/Portfolio/blob/main/portfolio/RedesDeComunicao-main/ChatClient.java)  
-- [Server Code](https://github.com/Guzz007Pt/Portfolio/blob/main/portfolio/RedesDeComunicao-main/ChatServer.java)
+A web application developed around relational database design and data management.
 
----
+### Kotlin Compiler
 
-### **Database and HTML Site**
-Creation of a database for League of Legends Worlds players and a website to search the database.  
-[Database Project](https://github.com/Guzz007Pt/Portfolio/tree/main/portfolio/Database)
+A compiler-related project exploring language processing and compiler concepts.
 
----
+### Traffic Light UX Project
 
-### **Compiler for Kotlin**
-Made the parser with ALex and Happy, had an AST, symbol table, and code generator for MIPS.  
-[Compiler Project](https://github.com/Guzz007Pt/Portfolio/tree/main/portfolio/Compiler%20%20kotlin)
+A user-experience project focused on interaction and interface design.
 
----
+## Purpose
+
+These projects reflect different areas explored throughout my Computer Science degree. My current focus is primarily on **C++, game programming and software systems**.
